@@ -4,10 +4,9 @@ body {
 
 hr {
     border-style: none;
-    border-top-style: dotted;
     border-width: 5px;
     border-color:#ff9a76;
-    width: 40%;
+    width: 100%;
     background: #ffeafb;
     
 }
