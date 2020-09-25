@@ -1,0 +1,26 @@
+body {
+    background-color:#ffeadb ;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    border-color:#ff9a76;
+    width: 40%;
+    background: #ffeafb;
+    
+}
+table{
+    border-spacing: 50px;
+}
+h1{
+    text-align: center;
+    color: #679b9b;
+    font-size: 50px;
+}
+h3{
+   
+h4{
+    
+}
